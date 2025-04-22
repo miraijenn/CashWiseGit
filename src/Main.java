@@ -1,10 +1,12 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
 
+        int one = 5;
+        int two = 4;
+        int t3 = 7;
 
-        System.out.println("Hi girls");
+        System.out.println(one + two + t3 + "Sum of two numbers");
 
-        }
     }
+}
