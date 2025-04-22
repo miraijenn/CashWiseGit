@@ -6,5 +6,6 @@ public class Main {
             System.out.println("nested loop :);
         }
         System.out.println("Hi I little cgange it");
+        System.out.println("pam-pam");
     }
 }
