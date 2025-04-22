@@ -9,4 +9,10 @@ public class Main {
         System.out.println(one + two + t3 + "Sum of two numbers");
 
     }
+
+    for (int i = 1; i <= 5; i++) {
+        System.out.println("Number: " + i);
+    }
+
+
 }
